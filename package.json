@@ -19,6 +19,6 @@
     "chai": "^4.1.2"
   },
   "engines": {
-    "node": "6.11.2" // intentionally so big version number
+    "node": "6.11.2"
   }
 }
